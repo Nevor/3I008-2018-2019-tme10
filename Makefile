@@ -1,3 +1,5 @@
+export OCAMLFIND_CONF=/Vrac/3I008-1819/opam-js_of_ocaml/4.06.1/lib/findlib.conf
+
 GEN_JS_API_DIR=/Vrac/3I008-1819/opam-js_of_ocaml/4.06.1/lib/gen_js_api
 JS_OF_OCAML_DIR=/Vrac/3I008-1819/opam-js_of_ocaml/4.06.1/bin/
 JS_OF_OCAML_LIBDIR=/Vrac/3I008-1819/opam-js_of_ocaml/4.06.1/lib/js_of_ocaml-compiler/
